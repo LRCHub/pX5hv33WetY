@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Can’t Wait",
+  "base_artist": "ONE OK ROCK",
+  "createdAt": "2025-12-07T11:25:28.084733Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "I CAN'T WAIT TO LOVE YOU (feat. Anna Moon)",
+      "artist": "Niko Moon feat. Anna Moon",
+      "has_synced": false,
+      "path": "select/01_I_CAN'T_WAIT_TO_LOVE_YOU_(feat._Anna_Moon)_Niko_Moon_feat._Anna_Moon.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "I CAN'T WAIT TO LOVE YOU",
+      "artist": "Niko Moon",
+      "has_synced": false,
+      "path": "select/02_I_CAN'T_WAIT_TO_LOVE_YOU_Niko_Moon.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "I Can't Wait",
+      "artist": "Luna",
+      "has_synced": true,
+      "path": "select/03_I_Can't_Wait_Luna.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "I Can't Wait for Your Love",
+      "artist": "Lyrics Born",
+      "has_synced": false,
+      "path": "select/04_I_Can't_Wait_for_Your_Love_Lyrics_Born.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Can't Wait",
+      "artist": "Mood Killer",
+      "has_synced": false,
+      "path": "select/05_Can't_Wait_Mood_Killer.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "I Can't Wait",
+      "artist": "Mirwais",
+      "has_synced": false,
+      "path": "select/06_I_Can't_Wait_Mirwais.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "I Can't Wait",
+      "artist": "Ol' Dirty Bastard",
+      "has_synced": true,
+      "path": "select/07_I_Can't_Wait_Ol'_Dirty_Bastard.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "I Can't Wait",
+      "artist": "OutKast",
+      "has_synced": false,
+      "path": "select/08_I_Can't_Wait_OutKast.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "I Can't Wait",
+      "artist": "Georgia",
+      "has_synced": true,
+      "path": "select/09_I_Can't_Wait_Georgia.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Just Can't Wait",
+      "artist": "Cartoons",
+      "has_synced": true,
+      "path": "select/10_Just_Can't_Wait_Cartoons.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "I Can't Wait",
+      "artist": "Sonique",
+      "has_synced": false,
+      "path": "select/11_I_Can't_Wait_Sonique.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Can't Wait Till Tomorrow",
+      "artist": "Sheena Easton",
+      "has_synced": false,
+      "path": "select/12_Can't_Wait_Till_Tomorrow_Sheena_Easton.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "I Can't Wait",
+      "artist": "Danny Wilson",
+      "has_synced": false,
+      "path": "select/13_I_Can't_Wait_Danny_Wilson.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "I Can't Wait",
+      "artist": "Stevie Nicks",
+      "has_synced": true,
+      "path": "select/14_I_Can't_Wait_Stevie_Nicks.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Can't Wait",
+      "artist": "ONE OK ROCK",
+      "has_synced": false,
+      "path": "select/pl_01_Can't_Wait_ONE_OK_ROCK.txt"
+    }
+  ]
+}
